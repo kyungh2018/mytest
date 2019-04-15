@@ -5,4 +5,5 @@ class test2 {
     System.out.println("test2 2312323");
   }
  ddd?
+   1
 }
