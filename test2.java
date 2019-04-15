@@ -6,4 +6,5 @@ class test2 {
   }
  ddd?
    1
+   2
 }
