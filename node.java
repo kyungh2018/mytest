@@ -5,5 +5,6 @@ class Node {
     a = new HashSet<String>();
     doSomething();
   } 
+  1
 
 }
