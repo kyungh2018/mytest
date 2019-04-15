@@ -6,5 +6,6 @@ class Node {
     addConflict(); 
     doSomething();
   } 
+  1
 
 }

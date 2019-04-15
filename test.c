@@ -4,5 +4,7 @@ int main() {
  printf("I added things");
  printf("I added auto things");
  exit(0);
-
+1
+ 2
+ 3
 }
