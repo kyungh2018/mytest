@@ -3,5 +3,5 @@ int main() {
  printf("I changed something");
  printf("I added auto things");
  exit(0);
-
+1
 }
